@@ -1,0 +1,29 @@
+/*
+Shahria Kazi CSE 190m Section MK TA: Tyler Rigsby, May 23rd 2012
+This page contains style specifications for the baby names webpage.
+*/
+
+body, button, select {
+	font-family: Georgia, serif;
+	font-size: 12pt;
+}
+
+q {
+	font-style: italic;
+}
+
+td div {
+	background-color: #FFBBBB;
+	width: 50px;
+	font-weight: bold;
+	text-align: center;
+}
+
+td {
+	height: 250px;
+	vertical-align: bottom;
+}
+
+.topten {
+	color: red;
+}
